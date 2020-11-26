@@ -24,6 +24,7 @@ public void display()
         System.out.println("a = " + a + "  b = " + b); 
     } 
   
+
 public static void main(String[] args) 
     { 
         Testlead object = new Testlead(); 
